@@ -45,7 +45,7 @@ class Main{
 
             Employee empobj = new Employee(id,name,salary);
             emparr[i] = empobj;
-            System.out.println("===================================================");
+            System.out.println("====================================================");
         }
 
         System.out.println(Arrays.toString(emparr));
